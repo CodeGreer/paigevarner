@@ -294,11 +294,11 @@ if ($result != NULL) {
     </ul>
         
     <ul class="codegreer">
-        <li>Site by <a target="_blank" href="http://www.codegreer.com/">Code Greer</a></li>
+        <li>Site by <a target="_blank" href="http://www.codegreer.com/">CodeGreer</a></li>
     </ul>
         
     <ul class="copyright">
-        <li>Copyright &#169; 2014-2015, Paige Varner, CLD</li>
+        <li>Copyright &#169; 2014-2017, Paige Varner, CLD</li>
     </ul>
         
 </div>  

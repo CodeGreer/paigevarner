@@ -81,6 +81,9 @@ body {
     color: #4E565D;
     line-height: 1.625; /* 26px */
     width: 100%;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
 }
 
 .header_offset, nav, nav ul, .two, .three, footer nav {
@@ -273,6 +276,7 @@ header nav {
 
 main {
     margin: 1em 0;
+    flex: 1;
 }
 
 main h2 {
@@ -311,7 +315,7 @@ main div {
     width: 100%;
 }
   
-p.more {
+p.more, p.client {
     font-family: 'Courgette', cursive;
     font-size: 1.5em;
     font-weight: bold;

@@ -349,9 +349,13 @@ p.service_offered, h4 {
 /* About */
 
 img.about_me {
-    width: 25%;
+    width: 20%;
     float: right;
-    padding: 0 8% 0 0;
+    padding: 0 10% 2% 2%;
+}
+
+.clear {
+    padding-bottom: 25em;
 }
 
 /* Resources */
@@ -815,9 +819,13 @@ footer nav ul li {
 /* About */
 
     img.about_me {
-        width: 35%;
-        padding: 6% 5% 2% 2%;
-    }         
+        width: 30%;
+        padding: 2% 5% 2% 2%;
+    }  
+    
+    .clear {
+        padding-bottom: 30em;
+    }
 
 /* Contact */
 
@@ -872,6 +880,19 @@ footer nav ul li {
         display: none;
     }
     
+/* About */
+
+    img.about_me {
+        width: 90%;
+        float: none;
+        padding: 0;
+        margin: 0 5%;
+    }  
+    
+    .clear {
+        padding-bottom: 5em;
+    }
+    
 /* Footer */ 
 
     footer nav ul li {
@@ -890,15 +911,6 @@ footer nav ul li {
     body {
         font-size: 90%;
     }      
-
-/* About */
-
-    img.about_me {
-        width: 90%;
-        float: none;
-        padding: 0;
-        margin: 0 5%;
-    }    
 }
 
 /*** Up to 400px ***/

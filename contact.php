@@ -343,7 +343,7 @@ function get_data( $var ) {
 <!-- Main -->  
     <main>
         <h2>Contact</h2>
-        <p>For questions or to check our availability, please use the form below or <a class="underline" href="mailto:info@birthcompanion.net">send us an email</a>.</p>            
+        <p>For questions or to check our availability, please use the form below or email us at <a class="underline" href="mailto:info@birthcompanion.net">info@birthcompanion.net</a>.</p>            
         
         <div class="two">
             <section>

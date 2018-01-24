@@ -262,7 +262,7 @@ function get_data( $var ) {
 
     <title>Contact Us | Birth Companion | Atlanta Labor Doula</title>
 
-    <link rel="canonical" href="http://www.birthcompanion.net/">
+    <link rel="canonical" href="http://www.birthcompanion.net/contact.php">
     <meta charset="utf-8"/>
     <meta name="format-detection" content="telephone=yes" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -278,21 +278,21 @@ function get_data( $var ) {
     <meta name="theme-color" content="#ffffff">
     
 <!-- FACEBOOK -->
-    <meta property="og:title" content="Birth Companion" >
+    <meta property="og:title" content="Birth Companion - Contact Us" >
     <meta property="og:site_name" content="Birth Companion">
-    <meta property="og:url" content="http://www.birthcompanion.net/contact.php" >
-    <meta property="og:description" content="Contact Us" >
-    <meta property="og:image" content="http://birthcompanion.net/images/facebook-pregnant-mom.png" >
+    <meta property="og:url" content="http://www.birthcompanion.net/contact.php/" >
+    <meta property="og:description" content="For questions or to check our availability, please use the form at our website." >
+    <meta property="og:image" content="http://birthcompanion.net/images/doulas.png" >
     <meta property="og:type" content="website" >
     <meta property="og:locale" content="en_US" >
 
 <!-- TWITTER  -->
     <meta property="twitter:card" content="summary" >
-    <meta property="twitter:title" content="Birth Companion" >
-    <meta property="twitter:description" content="Contact Us" >
+    <meta property="twitter:title" content="Birth Companion - Contact Us" >
+    <meta property="twitter:description" content="For questions or to check our availability, please use the form at our website." >
     <meta property="twitter:creator" content="@" >
     <meta property="twitter:url" content="http://www.birthcompanion.net/contact.php" >
-    <meta property="twitter:image" content="http://birthcompanion.net/images/pregnant-mom-mobile.png" >
+    <meta property="twitter:image" content="http://birthcompanion.net/images/doulas.png" >
     
 <!-- CSS -->
 	<link rel="stylesheet" href="css/style.min.css" />

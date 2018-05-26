@@ -308,6 +308,11 @@ main div {
 
 .three section, .three img {
     width: 32%;
+    display: flex;
+    flex-direction: column;
+}
+
+.three img { 
     margin-bottom: 1em;
 }
 
@@ -320,6 +325,7 @@ p.more, p.client {
     font-size: 1.5em;
     font-weight: bold;
     text-align: right;
+    margin-top: auto;
 }
 
 .more:hover, .more:focus, .underline:hover, .underline:focus {

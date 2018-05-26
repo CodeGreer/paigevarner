@@ -372,18 +372,18 @@ function get_data( $var ) {
                         <label for="location">Birth Location</label>
                         <select id="location" name="location" value="<?php get_data("location"); ?>" required>
                             <option value="" disabled selected hidden>Where you are giving birth?</option>
-                            <option value="0">Atlanta Medical Center</option>
-                            <option value="1">Dekalb Medical</option>
-                            <option value="2">Eastside Medical Center</option>
-                            <option value="3">Emory Johns Creek Hospital</option>
-                            <option value="4">Gwinnett Medical Center</option>
-                            <option value="5">Northside Hospital</option>
-                            <option value="6">Northside Hospital Forsyth</option>
-                            <option value="7">Piedmont Hospital</option>
-                            <option value="8">North Fulton Hospital</option>
-                            <option value="9">Atlanta Birth Center</option>
-                            <option value="10">Home Birth</option>
-                            <option value="11">Other</option>
+                            <option value="Atlanta Medical Center">Atlanta Medical Center</option>
+                            <option value="Dekalb Medical">Dekalb Medical</option>
+                            <option value="Eastside Medical Center">Eastside Medical Center</option>
+                            <option value="Emory Johns Creek Hospital">Emory Johns Creek Hospital</option>
+                            <option value="Gwinnett Medical Center">Gwinnett Medical Center</option>
+                            <option value="Northside Hospital">Northside Hospital</option>
+                            <option value="Northside Hospital Forsyth">Northside Hospital Forsyth</option>
+                            <option value="Piedmont Hospital">Piedmont Hospital</option>
+                            <option value="North Fulton Hospital">North Fulton Hospital</option>
+                            <option value="Atlanta Birth Center">Atlanta Birth Center</option>
+                            <option value="Home Birth">Home Birth</option>
+                            <option value="Other">Other</option>
                         </select>
 
                         <label for="comments">Tell us about yourself</label>

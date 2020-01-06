@@ -420,7 +420,7 @@ function get_data( $var ) {
         <nav>
             <ul>
                 <li><a href="#">Contact Us</a></li>
-                <li class="order">Copyright &#169; 2014-2018, Paige Varner, CLD</li>
+                <li class="order">Copyright &#169; 2014-2020, Paige Varner, CLD</li>
                 <li>Site by <a target="_blank" href="https://codegreer.com/">CodeGreer</a></li>
             </ul>
         </nav>
